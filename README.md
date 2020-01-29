@@ -1,4 +1,4 @@
-# Musem Of Candy
+# Museum Of Candy
 
 Live version: https://darkouto.github.io/Musem-Of-Candy/index.html
 
