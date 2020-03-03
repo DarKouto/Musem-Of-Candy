@@ -1,6 +1,6 @@
 # Museum Of Candy
 
-Live version: https://darkouto.github.io/Musem-Of-Candy/index.html
+Live version: https://darkouto.github.io/Museum-Of-Candy/index.html
 
 Blog-type website using Bootstrap 4's Grid System and Flexbox
 
